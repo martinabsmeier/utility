@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package de.marabs.common.utility.tree;
+package de.marabs.common.utlity.tree;
 
 /** 
  * {@code Balance} s the enum for tree balance factor.

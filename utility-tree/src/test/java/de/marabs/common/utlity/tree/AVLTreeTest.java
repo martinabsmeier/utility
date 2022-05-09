@@ -15,7 +15,7 @@
  *  You should have received a copy of the GNU General Public License
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-package de.marabs.common.utility.tree;
+package de.marabs.common.utlity.tree;
 
 import junit.framework.TestCase;
 import org.junit.After;
